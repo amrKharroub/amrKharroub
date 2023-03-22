@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @amrKharroub
 - 👀 I’m interested in AI and data sciense 
-- 🌱 I’m currently learning to get my cs degree and courses on Coursera
+- 🌱 Final touches on my bachoular in Computer Science
 - 💞️ I’m looking to collaborate on ML and DL projects
-- 📫 How to reach me: email me at AMK30017@students.aust.edu.lb
+- 📫 How to reach me: email me at amrkharroub@gmail.com
 
 <!---
 amrKharroub/amrKharroub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
