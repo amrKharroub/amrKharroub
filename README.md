@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @amrKharroub
 - 👀 I’m interested in AI and data sciense 
 - 🌱 Done Bachelor degree in Computer Science
-- 💞️ I’m looking to collaborate on ML and DL projects
+- 💞️ I’m looking to collaborate on ML and DL projects or any challenging project
+- 💻 mainly profecient in python 🐍, yet cool in other lanuages except javascript 😉
 - 📫 How to reach me: email me at amrkharroub@gmail.com
 
 <!---
